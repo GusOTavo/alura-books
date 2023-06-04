@@ -109,6 +109,7 @@
 
     .opcoes__botao {
         display: none;
+        transition: 0.2s;
     }
 
     .opcoes__item {
@@ -119,6 +120,7 @@
     .opcoes__link {
         text-decoration: none;
         color: var(--preto);
+        transition: 0.2s;
     }
 
     .opcoes__link:hover {
