@@ -17,6 +17,11 @@
 
 .swiper-slide img {
     width: 100%;
+    transition: 0.3s;
+}
+
+.swiper-slide:hover > img {
+    transform: scale(1.1);
 }
 
 .swiper-button-prev,.swiper-button-next {
