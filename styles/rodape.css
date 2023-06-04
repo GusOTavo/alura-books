@@ -42,6 +42,7 @@ hr {
         text-decoration: none;
         color:var(--cinza-escuro);
         padding-left: 0.5em;
+        transition: 0.2s;
     }
 
     .lista__rodape-link:hover {
