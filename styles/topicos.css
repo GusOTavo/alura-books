@@ -33,13 +33,14 @@
 
 .topicos__lista-ancora:hover {
     background-color: var(--branco);
-    border: 1px solid var(--laranja);
+    box-sizing: border-box;
+    outline: 1px solid var(--laranja);
     color: var(--laranja);
 }
 
 .topicos__lista-ancora:active {
     background-color: var(--branco);
-    border: 2px solid var(--laranja);
+    outline: 2px solid var(--laranja);
     color: var(--laranja);
 }
 
