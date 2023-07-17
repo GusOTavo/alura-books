@@ -78,6 +78,11 @@
     display: none;
 }
 
+.link__voltaMenu {
+    text-decoration: none;
+    color: var(--preto);
+}
+
 
 @media screen and (min-width: 1024px) {
     .none {
